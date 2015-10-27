@@ -70,6 +70,7 @@ git clone https://github.com/randomchars/pushbullet.py.git
 cd pushbullet.py 
 python ./setup.py install
 ```
+- If applicable, create a [Pushbullet](https://www.pushbullet.com/signin) account and get your [access token](https://www.pushbullet.com/#settings)
 
 ### Installation
 - Get the source code
