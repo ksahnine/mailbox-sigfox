@@ -1,3 +1,0 @@
-[submodule "backend/tpp"]
-	path = backend/tpp
-	url = https://github.com/ksahnine/tpp.git

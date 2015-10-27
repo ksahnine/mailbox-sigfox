@@ -14,9 +14,6 @@ import yaml
 import sys
 import os
 
-sys.path.append( "%s/%s" % (os.getcwd(), 'tpp'))
-from libs.velib import Velib
-
 # Mode debug
 debug=True
 
