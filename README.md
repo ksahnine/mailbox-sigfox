@@ -9,14 +9,10 @@ Note that :
 - the Arduino sleeps between two notifications to save power
 
 <table>
-<tr>
-<td>
-![Prototype](https://pbs.twimg.com/media/CSK5nTFWEAA5_cL.jpg "Prototype")
-</td>
-<td>
-![Pushbullet](https://github.com/ksahnine/mailbox-sigfox/raw/master/img/pushbullet.jpeg "Pushbullet")
-</td>
-</tr>
+  <tr>
+    <td> <img src="https://pbs.twimg.com/media/CSK5nTFWEAA5_cL.jpg" /> </td>
+    <td> <img src="https://github.com/ksahnine/mailbox-sigfox/raw/master/img/pushbullet.jpeg" /> </td>
+  </tr>
 </table>
 
 ## Getting the parts
