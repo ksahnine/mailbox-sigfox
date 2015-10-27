@@ -54,7 +54,8 @@ def inbox():
     Callback invoquee par le backend SIGFOX
     Configurer l'URL de callback sur https://backend.sigfox.com
     """
+    notif_result = notify()
     return 'OK\n' 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=9000)
