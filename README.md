@@ -8,6 +8,8 @@ Note that :
 - the prototype is based on an [Akeru evaluation board](http://akeru.cc/) (a SIGFOX enabled Arduino UNO board)
 - the Arduino sleeps between two notifications to save power
 
+![Prototype](https://pbs.twimg.com/media/CSK5nTFWEAA5_cL.jpg "Prototype")
+
 ## Getting the parts
 - 1 Akeru EVB
 - 1 Tilt sensor
