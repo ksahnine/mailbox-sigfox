@@ -11,7 +11,7 @@ Note that :
 <table>
   <tr>
     <td> <img src="https://pbs.twimg.com/media/CSK5nTFWEAA5_cL.jpg" /> </td>
-    <td> <img src="https://github.com/ksahnine/mailbox-sigfox/raw/master/img/pushbullet.jpeg" /> </td>
+    <td> <img width="30%" height="30%" src="https://github.com/ksahnine/mailbox-sigfox/raw/master/img/pushbullet.jpeg" /> </td>
   </tr>
 </table>
 
