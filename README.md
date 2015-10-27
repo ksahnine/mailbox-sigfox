@@ -77,7 +77,7 @@ cd mailbox-sigfox/backend
 
 ## SIGFOX
 
-- Configure the SIGFOX callback URL to `http://XX.XX.XX.XX:5000/sigbox/inbox` where `XX.XX.XX.XX` is the public IP adress of the backend server
+- [Configure](https://backend.sigfox.com) the SIGFOX callback URL to `http://XX.XX.XX.XX:5000/sigbox/inbox` where `XX.XX.XX.XX` is the public IP adress of the backend server
 
-![SIGFOX callback](https://github.com/ksahnine/mailbox-sigfox/raw/master/img/sigfox_callback.png "Callback")
+![SIGFOX callback](https://raw.githubusercontent.com/ksahnine/mailbox-sigfox/master/img/sigbox_callback.png "Callback")
 
