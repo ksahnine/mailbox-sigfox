@@ -46,8 +46,8 @@ Note that :
 ### Prerequisites
 - [Download](https://github.com/rocketscream/Low-Power/archive/master.zip) the [Low-Power](https://github.com/rocketscream/Low-Power) library
 - Save the file to the `~/Documents/Arduino/librairies` folder
-- Rename the file `master.zip` to `Low-Power.zip`
-- Unzip the file `Low-Power.zip`
+- Unzip the file `Low-Power-master.zip`
+- Rename the directory `Low-Power-master` to `Low-Power`
 
 ### Installation
 - Get the source code
