@@ -18,7 +18,7 @@ Note that :
 ## Getting the parts
 - 1 Akeru EVB
 - 1 Tilt sensor
-- 1 Raspberry Pi (or any single board computer, or any virtual server on the Cloud)
+- 1 Raspberry Pi (or any single board computer, or any virtual server in the Cloud)
 
 ## Architecture
 
